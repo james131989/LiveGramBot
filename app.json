@@ -1,5 +1,5 @@
 {
-  "name": "ResponChatOtomatis",
+  "name": "Live Gram Bot",
   "description": "Modular  Telegram Bot powered by @PyroGram!",
   "logo": "https://telegra.ph/file/38892636183a19871ec14.jpg",
   "keywords": [
@@ -12,9 +12,9 @@
     "channel",
     "administrators"
   ],
-  "repository": "https://github.com/vckyou/ResponChatOtomatis",
-  "website": "https://telegram.dog/VckyouuBitch",
-  "success_url": "https://t.me/VckyouuBitch",
+  "repository": "https://github.com/levina-lab/LiveGrambot",
+  "website": "https://telegram.dog/dlwrml",
+  "success_url": "https://t.me/levinachannel",
   "env": {
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal"
